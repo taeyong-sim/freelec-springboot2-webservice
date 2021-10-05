@@ -3,5 +3,5 @@
 .idea
 application-oauth.properties
 application-real-db.properties
-.pem
-.ppk
+freelec-springboot2-webservice.pem
+freelec-springboot2-webservice.ppk
